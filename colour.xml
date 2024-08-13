@@ -1,0 +1,30 @@
+<Colors>
+    <Color>
+        <Name>Red</Name>
+        <Hex>#FF0000</Hex>
+        <RGB>
+            <R>255</R>
+            <G>0</G>
+            <B>0</B>
+        </RGB>
+    </Color>
+    <Color>
+        <Name>Green</Name>
+        <Hex>#00FF00</Hex>
+        <RGB>
+            <R>0</R>
+            <G>255</G>
+            <B>0</B>
+        </RGB>
+    </Color>
+    <Color>
+        <Name>Blue</Name>
+        <Hex>#0000FF</Hex>
+        <RGB>
+            <R>0</R>
+            <G>0</G>
+            <B>255</B>
+        </RGB>
+    </Color>
+</Colors>
+
